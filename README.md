@@ -20,6 +20,8 @@ This project leverages python 3.7 with the following modules:
 
 * [pandas](https://github.com/pandas-dev/pandas) - or reading data into a DataFrame and analyzing data via statistics and plots.
 
+* [numpy](https://numpy.org) - For scientific computing.
+
 * [pathlib](https://docs.python.org/3/library/pathlib.html) - For representing the file system path to a csv.
 
 * [matplotlib](https://matplotlib.org/stable/users/index.html) - For embedding plots in the application.
