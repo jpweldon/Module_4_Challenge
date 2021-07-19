@@ -1,6 +1,6 @@
 # Module_4_Challenge
 
-# Investment_Analysis
+# Investment Analysis
 
 ---
 
@@ -8,7 +8,7 @@
 
 The premise of this project is the scenario that I am in the role of a quantitative analyst for a FinTech investing platform. This platform aims to offer clients a one-stop online investment solution for their retirement portfolios that is both inexpensive and high quality. To keep the costs low, the firm uses algorithms to build each client's portfolio. The algorithms choose from various investment styles and options.
 
-I have been tasked with evaluating four new investment options for inclusion in the client portfolios. I will need to determine the fund with the most investment potential based on key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas.
+I have been tasked with evaluating four new investment options for inclusion in the client portfolios. Legendary fund and hedge-fund managers run all four selections. I will need to determine the fund with the most investment potential based on key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas.
 
 I have created a Jupyter notebook that contains my data preparation, analysis, and visualizations for key risk and return metrics.
 
